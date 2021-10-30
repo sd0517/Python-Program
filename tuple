@@ -1,0 +1,5 @@
+// Tuple in python are immutable
+
+// Tuples are represented in paranthesis
+
+(3,6,9,12)
